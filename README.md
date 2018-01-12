@@ -1,3 +1,7 @@
+Here is a [demo](https://jer1605.github.io/badass_converter/) of my currency converter.
+
+=============================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
