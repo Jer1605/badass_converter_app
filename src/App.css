@@ -47,7 +47,7 @@ main.app-container {
     margin: 0 auto;
     padding: 5vh 1rem;
     color: #474747;
-    margin-bottom: 3.4rem;
+    margin-bottom: 5.4rem
 }
 .input-item-content{
     background: #fff;
@@ -165,7 +165,8 @@ input:focus + .input-label::after, .input--filled .input-label::after{
 select{
     cursor: pointer;
     border: none;
-    padding: 0 1rem
+    padding: 0 1rem;
+    background: white
 }
 .app-rate p {display: none}
 
